@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Management Website",
+    "url": "https://github.com/olivia-e452/angular-group-final-sprint-08-2023-final-assessment---Copy",
+    "imgId": "website",
+    "imgAltText": "a company management website's project page for a company's team #1",
+    "staticImgLink": "website.png",
+    "hoverImgLink": "",
+    "text": [
+      "Full-stack website for managing generic companies, made with Spring, Java, PostgreSQL, Angular, Typescript, HTML, and CSS.",
+      "On the team, I worked on both backend and frontend functionality.",
+      "For the backend, I wrote Java functions to retrieve, create, delete, and edit employee data in the PostgreSQL database.",
+      "For the frontend, I collaborated on the 'Projects' and 'Teams' pages, writing calls in Typescript to send, request, interpret, and display data from the server."
+    ]
+  },
+  {
+    "name": "Social Media API",
+    "url": "https://github.com/olivia-e452/spring-assessment-social-media-sprint-8-2023-assessment-1-team-2---Copy",
+    "imgId": "social",
+    "imgAltText": "some java code",
+    "staticImgLink": "twitter.png",
+    "hoverImgLink": "",
+    "text": [
+      "Social media API made with Spring, Java, and PostgreSQL.",
+      "On the team, I developed and implemented the user profile class and its database relationships, and I handled tweet context (a tweet's full reply chain) and hashtag retrieval from the server."
+    ]
+  },
+  {
+    "name": "Square Game",
+    "url": "https://bloopyturtle.itch.io/a-game-by-someone-who-is-not-an-artist",
+    "imgId": "square",
+    "imgAltText": "a square fighting a 2D dragon, in black and white",
+    "staticImgLink": "square.png",
+    "hoverImgLink": "square.gif",
+    "text": [
+      "Short single-player platformer made solo in Unity with C#.",
+      "Play as a square on a quest for the legendary DASH ability. Collect ATTACKs (they go 'pew'!), destroy your enemies, fight a dragon, and make conversation with one (1) dubiously friendly local."
+    ]
+  }, 
+  {
+    "name": "The Oof Rooms",
+    "url": "https://peppygecky.itch.io/oofrooms",
+    "imgId": "oof",
+    "imgAltText": "cover art for the oof rooms visual novel, featuring each friendly character in the game",
+    "staticImgLink": "oof.png",
+    "hoverImgLink": "",
+    "text": [
+      "Visual novel made in Unity with C#.",
+      "Play as a disaffected office worker whisked away to a magical corporation where all of your coworkers are friendly.",
+      "I was the programmer of the team, as well as the team member in charge of using Unity as a whole. I handled implementing the three minigames, the shaders and animations, the save/load system, and the dialogue system, which supports branching choices and per-line art and sound transitions."
+    ]
+  },
+  {
+    "name": "Conway’s Game of Competitive Life",
+    "url": "https://bloopyturtle.itch.io/game-of-life",
+    "imgId": "conway",
+    "imgAltText": "conway's game of life, with lots of multicolored squares on a black background",
+    "staticImgLink": "conway.jpg",
+    "hoverImgLink": "conway.gif",
+    "text": [
+      "Small idle game made solo in Unity with C#.",
+      "<a href=https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life target='_blank' rel='noopener noreferrer'>Conway's Game of Life</a>, but in multiplayer."
+    ]
+  },
+  {
+    "name": "Lunar Restoration: The Plague of Time",
+    "url": "https://jecase.itch.io/lunar-restoration-the-plague-of-time",
+    "imgId": "conway",
+    "imgAltText": "cover art for the lunar restoration puzzle game",
+    "staticImgLink": "lunar.png",
+    "hoverImgLink": "",
+    "text": [
+      "Puzzle game made in Unity with C# for a game jam.",
+      "I was the team programmer, as well as the team member in charge of using Unity. I coded the gameplay, animations, menus, and high score board."
+    ]
+  }
+]
