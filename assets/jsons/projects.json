@@ -1,5 +1,17 @@
 [
   {
+    "name": "Square Game",
+    "url": "https://bloopyturtle.itch.io/a-game-by-someone-who-is-not-an-artist",
+    "imgId": "square",
+    "imgAltText": "a square fighting a 2D dragon, in black and white",
+    "staticImgLink": "square.png",
+    "hoverImgLink": "square.gif",
+    "text": [
+      "Short single-player platformer made solo in Unity with C#.",
+      "Play as a square on a quest for the legendary DASH ability. Collect ATTACKs (they go 'pew'!), destroy your enemies, fight a dragon, and make conversation with one (1) dubiously friendly local."
+    ]
+  },
+  {
     "name": "Management Website",
     "url": "https://github.com/olivia-e452/angular-group-final-sprint-08-2023-final-assessment---Copy",
     "imgId": "website",
@@ -25,18 +37,6 @@
       "On the team, I developed and implemented the user profile class and its database relationships, and I handled tweet context (a tweet's full reply chain) and hashtag retrieval from the server."
     ]
   },
-  {
-    "name": "Square Game",
-    "url": "https://bloopyturtle.itch.io/a-game-by-someone-who-is-not-an-artist",
-    "imgId": "square",
-    "imgAltText": "a square fighting a 2D dragon, in black and white",
-    "staticImgLink": "square.png",
-    "hoverImgLink": "square.gif",
-    "text": [
-      "Short single-player platformer made solo in Unity with C#.",
-      "Play as a square on a quest for the legendary DASH ability. Collect ATTACKs (they go 'pew'!), destroy your enemies, fight a dragon, and make conversation with one (1) dubiously friendly local."
-    ]
-  }, 
   {
     "name": "The Oof Rooms",
     "url": "https://peppygecky.itch.io/oofrooms",
