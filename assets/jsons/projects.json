@@ -43,7 +43,7 @@
     "imgId": "oof",
     "imgAltText": "cover art for the oof rooms visual novel, featuring each friendly character in the game",
     "staticImgLink": "oof.png",
-    "hoverImgLink": "",
+    "hoverImgLink": "oof.gif",
     "text": [
       "Visual novel made in Unity with C#.",
       "Play as a disaffected office worker whisked away to a magical corporation where all of your coworkers are friendly.",
@@ -65,10 +65,10 @@
   {
     "name": "Lunar Restoration: The Plague of Time",
     "url": "https://jecase.itch.io/lunar-restoration-the-plague-of-time",
-    "imgId": "conway",
+    "imgId": "lunar",
     "imgAltText": "cover art for the lunar restoration puzzle game",
     "staticImgLink": "lunar.png",
-    "hoverImgLink": "",
+    "hoverImgLink": "lunar.gif",
     "text": [
       "Puzzle game made in Unity with C# for a game jam.",
       "I was the team programmer, as well as the team member in charge of using Unity. I coded the gameplay, animations, menus, and high score board."
