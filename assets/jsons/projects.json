@@ -4,8 +4,8 @@
     "url": "https://bloopyturtle.itch.io/a-game-by-someone-who-is-not-an-artist",
     "imgId": "square",
     "imgAltText": "a square fighting a 2D dragon, in black and white",
-    "staticImgLink": "square.png",
-    "hoverImgLink": "square.gif",
+    "imgLink": "square.png",
+    "vidLink": "square.webm",
     "text": [
       "Short single-player platformer made solo in Unity with C#.",
       "Play as a square on a quest for the legendary DASH ability. Collect ATTACKs (they go 'pew'!), destroy your enemies, fight a dragon, and make conversation with one (1) dubiously friendly local."
@@ -16,8 +16,8 @@
     "url": "https://github.com/olivia-e452/angular-group-final-sprint-08-2023-final-assessment",
     "imgId": "website",
     "imgAltText": "a company management website's project page for a company's team #1",
-    "staticImgLink": "website.png",
-    "hoverImgLink": "",
+    "imgLink": "website.png",
+    "vidLink": "",
     "text": [
       "Full-stack website for managing generic companies, made with Spring, Java, PostgreSQL, Angular, Typescript, HTML, and CSS.",
       "On the team, I worked on both backend and frontend functionality.",
@@ -30,8 +30,8 @@
     "url": "https://github.com/olivia-e452/spring-assessment-social-media-sprint-8-2023-assessment-1-team-2---Copy",
     "imgId": "social",
     "imgAltText": "some java code",
-    "staticImgLink": "twitter.png",
-    "hoverImgLink": "",
+    "imgLink": "twitter.png",
+    "vidLink": "",
     "text": [
       "Social media API made with Spring, Java, and PostgreSQL.",
       "On the team, I developed and implemented the user profile class and its database relationships, and I handled tweet context (a tweet's full reply chain) and hashtag retrieval from the server."
@@ -42,8 +42,8 @@
     "url": "https://peppygecky.itch.io/oofrooms",
     "imgId": "oof",
     "imgAltText": "cover art for the oof rooms visual novel, featuring each friendly character in the game",
-    "staticImgLink": "oof.png",
-    "hoverImgLink": "oof.gif",
+    "imgLink": "oof.png",
+    "vidLink": "oof.webm",
     "text": [
       "Visual novel made in Unity with C#.",
       "Play as a disaffected office worker whisked away to a magical corporation where all of your coworkers are friendly.",
@@ -55,20 +55,32 @@
     "url": "https://bloopyturtle.itch.io/game-of-life",
     "imgId": "conway",
     "imgAltText": "conway's game of life, with lots of multicolored squares on a black background",
-    "staticImgLink": "conway.jpg",
-    "hoverImgLink": "conway.gif",
+    "imgLink": "conway.jpg",
+    "vidLink": "conway.webm",
     "text": [
       "Small idle game made solo in Unity with C#.",
       "<a href=https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life target='_blank' rel='noopener noreferrer'>Conway's Game of Life</a>, but in multiplayer."
     ]
   },
   {
+    "name": "Gifts in April",
+    "url": "https://bloopyturtle.itch.io/gift-giving-game",
+    "imgId": "gifts",
+    "imgAltText": "screenshot of NPCs standing in the overworld",
+    "imgLink": "gifts.png",
+    "vidLink": "",
+    "text": [
+      "Short RPG/dating sim made in Unity.",
+      "As the team programmer, I was responsible for implementing player movement, menus, crafting and resource collection, and dialogue systems and other NPC interactions."
+    ]
+  },
+  {
     "name": "Lunar Restoration: The Plague of Time",
     "url": "https://jecase.itch.io/lunar-restoration-the-plague-of-time",
     "imgId": "lunar",
-    "imgAltText": "cover art for the lunar restoration puzzle game",
-    "staticImgLink": "lunar.png",
-    "hoverImgLink": "lunar.gif",
+    "imgAltText": "title screen for the lunar restoration puzzle game",
+    "imgLink": "lunar.png",
+    "vidLink": "lunar.webm",
     "text": [
       "Puzzle game made in Unity with C# for a game jam.",
       "I was the team programmer, as well as the team member in charge of using Unity. I coded the gameplay, animations, menus, and high score board."
